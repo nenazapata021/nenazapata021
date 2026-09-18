@@ -89,7 +89,7 @@ Plataforma web con mapas conceptuales y un panel de administración avanzado enf
 
 <p align="left">
   <!-- Instagram -->
-  <a href="https://instagram.com/tu-usuario" target="_blank">
+  <a href="https://www.instagram.com/ednacastanedazapat/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
   
