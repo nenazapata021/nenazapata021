@@ -71,8 +71,6 @@ Soy estudiante de **Análisis y Desarrollo de Software (ADSO)** en el **SENA Cen
 
 ### 📁 Proyectos Destacados
 
----
-
 #### 🏢 Luxe-estate
 
 Aplicación web de bienes raíces para la visualización de propiedades, galerías interactivas y gestión de datos inmobiliarios.
