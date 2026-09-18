@@ -92,14 +92,8 @@ Plataforma web con mapas conceptuales y un panel de administración avanzado enf
   <a href="https://www.instagram.com/ednacastanedazapat/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
-  
   <!-- Gmail -->
-  <a href="mailto:tu-correo@gmail.com">
+  <a href="https://mail.google.com/mail/u/0/?service=mail&flowName=GlifWebSignIn&flowEntry=AccountChooser&ec=asw-gmail-globalnav-signin#inbox">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" />
-  </a>
-  
-  <!-- Computrabajo (O cualquier otro enlace personalizado) -->
-  <a href="https://www.computrabajo.com.co/" target="_blank">
-    <img src="https://img.shields.io/badge/Computrabajo-0077B5?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Computrabajo" />
   </a>
 </p>
