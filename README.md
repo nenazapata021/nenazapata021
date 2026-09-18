@@ -43,4 +43,4 @@ Plataforma web con mapas conceptuales y un panel de administración avanzado enf
 
 ## 📫 Cómo contactarme
 
-* **GitHub:** [ednacanastaneda021](https://github.com/nenazapata021)
+* **GitHub:** [ednacanastaneda021@gmail.com](https://github.com/nenazapata021)
