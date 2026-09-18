@@ -17,6 +17,15 @@ Soy estudiante de **Análisis y Desarrollo de Software (ADSO)** en el **SENA Cen
 * **Frontend & Backend:** JavaScript, TypeScript, Node.js, Express, Next.js.
 * **Bases de Datos & BaaS:** MongoDB, Supabase.
 * **Herramientas de Desarrollo:** Visual Studio Code, Cursor, Git, GitHub, Postman, Laragon.
+* <img align="right" width="250" src="URL-DE-TU-IMAGEN-O-GIF">
+
+## 🛠️ My Skills Include
+
+### 🔧 Tech Stack
+![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+<br clear="right"/>
 
 ---
 
