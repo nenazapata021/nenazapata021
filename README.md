@@ -4,7 +4,7 @@ Soy estudiante de **Análisis y Desarrollo de Software (ADSO)** en el **SENA Cen
 
 ---
 
-## 🚀 Sobre Mí
+## 🚀 Sobre mi
 
 * 🎓 Actualmente cursando la tecnología en Análisis y Desarrollo de Software (Ficha 2959814).
 * 📍 Resido en Medellín, Antioquia, Colombia.
@@ -12,7 +12,7 @@ Soy estudiante de **Análisis y Desarrollo de Software (ADSO)** en el **SENA Cen
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Technologies and Tools
 
 * **Frontend & Backend:** JavaScript, TypeScript, Node.js, Express, Next.js.
 * **Bases de Datos & BaaS:** MongoDB, Supabase.
