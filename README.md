@@ -71,13 +71,31 @@ Soy estudiante de **Análisis y Desarrollo de Software (ADSO)** en el **SENA Cen
 
 ## 📂 Proyectos Destacados
 
-### 🏢 Luxe-estate
-Aplicación web de bienes raíces para la visualización de propiedades, galerías interactivas y gestión de datos inmobiliarios.
-* **Stack:** Next.js, Supabase, Node.js
+#### 🏢 **Luxe-estate**
+> Aplicación web de bienes raíces para la visualización de propiedades, galerías interactivas y gestión de datos inmobiliarios.
 
-### 🚌 Refugio Rodante
-Plataforma web con mapas conceptuales y un panel de administración avanzado enfocado en la gestión y logística del proyecto.
-* **Stack:** Node.js, Express, MongoDB
+* **Stack utilizado:**
+<p>
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/-NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+</p>
+
+[🔗 Ver Repositorio](https://github.com/nenazapata021/luxe-estate) • [🌐 Ver Demo en vivo](https://tu-proyecto.vercel.app/)
+
+---
+
+#### 🚐 **Refugio Rodante**
+> Plataforma web con mapas conceptuales y un panel de administración avanzado enfocado en la gestión y logística del proyecto.
+
+* **Stack utilizado:**
+<p>
+  <img src="https://img.shields.io/badge/-NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+[🔗 Ver Repositorio](https://github.com/nenazapata021/refugio-rodante) • [🌐 Ver Demo en vivo](https://tu-proyecto.com/)
 
 ---
 
