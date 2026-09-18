@@ -87,4 +87,19 @@ Plataforma web con mapas conceptuales y un panel de administración avanzado enf
 
 ## 📫 Cómo contactarme
 
-* **GitHub:** [ednacanastaneda021@gmail.com](https://github.com/nenazapata021)
+<p align="left">
+  <!-- Instagram -->
+  <a href="https://instagram.com/tu-usuario" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  
+  <!-- Gmail -->
+  <a href="mailto:tu-correo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" />
+  </a>
+  
+  <!-- Computrabajo (O cualquier otro enlace personalizado) -->
+  <a href="https://www.computrabajo.com.co/" target="_blank">
+    <img src="https://img.shields.io/badge/Computrabajo-0077B5?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Computrabajo" />
+  </a>
+</p>
