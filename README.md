@@ -45,6 +45,16 @@ Soy estudiante de **Análisis y Desarrollo de Software (ADSO)** en el **SENA Cen
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+### ⚙️ Github stats:
+
+<p align="center">
+  <!-- Tarjeta de Estadísticas Generales -->
+  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario-de-github&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  
+  <!-- Tarjeta de Lenguajes Más Usados -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario-de-github&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
 ### 📊  My Programming Languages
 - JavaScript
 - Node
