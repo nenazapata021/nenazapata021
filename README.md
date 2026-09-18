@@ -45,6 +45,16 @@ Soy estudiante de **Análisis y Desarrollo de Software (ADSO)** en el **SENA Cen
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+### 📊  My Programming Languages
+- JavaScript
+- Node
+- React
+- Next.js
+- Angular
+- Python
+- HTML5
+- CSS3
+- TailwindCSS
 <br clear="right"/>
 
 ---
